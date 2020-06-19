@@ -2,5 +2,6 @@
 	"author": "Mariano Ramos",
 	"description": "Es un proyecto que en el cual estoy aprendiendo",
 	"keywords": ["descriptive", "related", "freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0"
 }
